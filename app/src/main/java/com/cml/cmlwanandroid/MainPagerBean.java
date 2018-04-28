@@ -8,6 +8,10 @@ import java.util.List;
 
 public class MainPagerBean {
 
+    /**
+     * a_branch
+     */
+
 
     public DataBean data;
     public int errorCode;
