@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CmlWanAndroid</string>
+
+    <string name="login_in">Login</string>
+    <string name="my_collect">Collect</string>
+    <string name="setting">Setting</string>
+    <string name="about_us">About</string>
+    <string name="login_out">Logout</string>
+
+    <string name="homePage">Home</string>
+    <string name="know">Know</string>
+    <string name="nav">Nav</string>
+    <string name="module">Module</string>
+
+
+    <string name="useful_site">Useful</string>
+    <string name="search">Search</string>
+
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+
+    <string name="double_click_exit_tint">Press the back button again to exit </string>
+</resources>
