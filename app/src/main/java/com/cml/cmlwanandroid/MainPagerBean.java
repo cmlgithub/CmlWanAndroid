@@ -9,9 +9,8 @@ import java.util.List;
 public class MainPagerBean {
 
     /**
-     * a_branch
+     * b
      */
-
 
     public DataBean data;
     public int errorCode;
